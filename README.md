@@ -1,12 +1,12 @@
 # pozartstyle
 
-##Image Converter Web App
+## Image Converter Web App
 
-###Overview
+### Overview
 
 This web app lets users upload images and apply a pixelated or stylized effect, creating a unique artistic transformation.
 
-###Features
+### Features
 
 - Upload and process images easily
 - Convert images into a pixel-art style
@@ -14,22 +14,22 @@ This web app lets users upload images and apply a pixelated or stylized effect, 
 - Supports JPG, PNG, and other formats
 - Fast processing with real-time preview
 
-###Technologies Used
+### Technologies Used
 
 HTML, CSS, JavaScript
 
-###Usage
+### Usage
 
 - Open the app in your browser.
 - Upload an image from your device.
 - Choose an effect and apply it.
 - Download the processed image.
 
-##Try_It_Out
+## Try_It_Out
 
 Visit the live website to test the image converter: [https://ashishkushbi.github.io/pozartstyle/]
 
-###Contributions
+### Contributions
 
 You are welcome to contribute and improve the project.
 
