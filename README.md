@@ -4,7 +4,7 @@
 
 ### Overview
 
-This web app lets users upload images and apply a pixelated or stylized effect, creating a unique artistic transformation.
+This web app lets users upload images and apply a pixelated or stylized effect, trying to make Ghibli effect currently not possible need paid api from open API So, still it is in development face will be updated in future to create a unique artistic transformation.
 
 ### Features
 
